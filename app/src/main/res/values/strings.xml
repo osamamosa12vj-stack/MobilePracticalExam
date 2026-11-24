@@ -1,0 +1,35 @@
+
+<resources>
+
+    <string name="app_name">MobilePracticalExam</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Fragments -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Mode Dashboard -->
+    <string name="mode_dashboard">Mode Dashboard</string>
+    <string name="set_mode">Set Mode</string>
+
+    <!-- Tabs -->
+    <string name="tab_first">First</string>
+    <string name="tab_second">Second</string>
+    <string name="tab_third">Third</string>
+
+    <!-- Display Modes -->
+    <string name="mode_light">Light</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_system">System</string>
+    <string name="mode_changed">Display mode updated successfully</string>
+
+    <!-- Lorem Ipsum -->
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem.
+        Mauris volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus,
+        sit amet mattis purus dui nec risus.
+    </string>
+
+</resources>
